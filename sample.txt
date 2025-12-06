@@ -1,0 +1,2 @@
+This is a sample text file for learning Git and GitHub. I am uploading
+this file to test the upload feature.
